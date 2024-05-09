@@ -27,25 +27,23 @@ Emegi
 Gecen Herkeze Tessekurler 
 ```
 
-## Gerekli Araçlar 🔁
+## Gerekli Araçlar [🔁]
 
 `Hosting 🧩`
 **• Önce Bir Alan Adī Sistemine Lazīm Olacaktīr Ve Bunun Īçin `Domain` Almayi Unutmayīn**
 
-# Hosting Edinemek
+# Hosting Edinemek [💌]
 
 ```
 www.poyrazhosting.com.tr
 ```
-`Domain` Olusturduktan Sonra Bir `Postegre Sql` Olusturmamīz Gerekmektedir
+`Domain` Olusturun
 
 ## Cpanel Dosya Kontrol
 
-`Kontrol Merkezi` Ele Alinca Tek Kalan Kīsīm `/public_html` Klasörüne Gerekli Kaynak Paketini Hatasīz Bir Sekilde Depoloy Edip Startī Vermektir,
+`Kontrol Merkezi` Ele Alinca Tek Kalan Kīsīm `/public_html` Klasörüne Gerekli Kaynak Paketini Hatasīz Bir Sekilde Deploy Edip Startī Vermektir,
 
-## Sql Yönetimi
-
-## İÇE AKTARMAK
+## Sql Yönetimi [➕]
 
 `Cpanel` Üzerinden Maria-DB Üzerinden Bir Veritaban Oluşturunuz
 
