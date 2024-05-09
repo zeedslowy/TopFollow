@@ -6,10 +6,26 @@
   <img src="https://telegra.ph/file/13d3707d6e9e63a8ceb70.jpg">
 </p>
 
-**• Instagram Hesap Kontrol
-Panel Ve Takipci Ve Begeni Hizmet
-Yazilimi Sizlerle Paylastigim Icin
-Emegi Gecen Herkeze Tessekurler 💎**
+## Project ⏏ MRS-7
+```
+° Biliyoruzki Hepimizin Ne
+Kadar Enflasyon Altında
+Ezildiğini Anlıyorum
+Sizin İçin Smm
+Scripitler Ücretisiz
+Atıyorum Artık Satış
+Yaparak Sizde
+E -Ticaret
+Dünyasına Hoşgeldiniz
+
+❤ Instagram Hesap Kontrol
+Panel Ve Takipci Ve
+Begeni Hizmet
+Yazilimi Sizlerle
+Paylastigim Icin
+Emegi
+Gecen Herkeze Tessekurler 
+```
 
 ## Gerekli Araçlar 🔁
 
@@ -25,13 +41,23 @@ www.poyrazhosting.com.tr
 
 ## Cpanel Dosya Kontrol
 
-`Kontrol Merkezi` Ele Alinca Tek Kalan Kīsīm /public_html Klasörüne `Dosya Yöneticisi` Gerekli Kaynak Paketini Hatasīz Bir Sekilde Depoloy Edip Startī Vermektir,
+`Kontrol Merkezi` Ele Alinca Tek Kalan Kīsīm `/public_html` Klasörüne Gerekli Kaynak Paketini Hatasīz Bir Sekilde Depoloy Edip Startī Vermektir,
 
 ## Sql Yönetimi
 
-Zip İçerisinde Bulunan Config Klasöründeki `database.php` Dosyasındaki Veritaban Bilgilerine Göre Doldurunuz
+## İÇE AKTARMAK
+
+`Cpanel` Üzerinden Maria-DB Üzerinden Bir Veritaban Oluşturunuz
+
+## POSTGRESQL KURULUM
+
+`app/config/database.php` Dosyasındaki Veritaban Bilgilerine Göre Doldurunuz Bazen `config.php` De Olabilir Scripite Göre Değişmektedir
+
+## Senkranizasyon
 
 `PhpMyAdmin` Adresindeki `içe aktar` Sekmesinden Arşiv İçerisinde Bulunan .sql Dosyasını İçe Aktarmanız 
+
+
 
 ## Hatta Kafanīz Karīsmamamsī Īcin Size Kurulum Videosu Atabilirim
 
